@@ -60,17 +60,21 @@ namespace UML_Cours_Games21
             Console.WriteLine("Aggregation");
             Console.WriteLine("-------------------");
             VideoProjecteur vp = new VideoProjecteur();
+
             List<PC> pcs = new List<PC>();
+            
             for (int i = 0; i < 15; i++)
             {
                 pcs.Add(new PC("code" + (i + 1)));
             }
+            // créer le container, on injecte les dépendances
             Local l = new Local(vp, pcs);
+            
             l.afficherPCs();
             Console.WriteLine();
             Console.WriteLine("On met à null le local mais les pcs continuent leur vie");
             l = null;
-            Console.WriteLine("Ex: le PC numéro 2, voici son code: " + pcs[1].Code);
+            Console.WriteLine("Ex: le PC numéro 2 est en vie! Voici son code: " + pcs[1].Code);
 
 
 
@@ -105,6 +109,7 @@ namespace UML_Cours_Games21
             parent.addEnfant(f2);
 
             parent.afficheEnfants();
+
 
             Console.WriteLine();
             Console.WriteLine();
