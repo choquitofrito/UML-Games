@@ -14,7 +14,7 @@ namespace Composition
         public Tableau(string id)
         {
             this._id = id;
-            // les objets sont crées à l'interieur. 
+            // les objets sont crées à l'intérieur. 
             // la destruction de cet objet implique la destruction des Pions et des Chevaux
             for (int i = 0; i < 16; i++)
             {
