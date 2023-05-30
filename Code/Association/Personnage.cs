@@ -17,6 +17,7 @@ namespace Association
                 _nom = value;
             }
         }
+        
         public List<Arme> armes = new List<Arme>();
 
         public void addArme(Arme uneArme)
