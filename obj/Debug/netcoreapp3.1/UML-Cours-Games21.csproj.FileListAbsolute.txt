@@ -1,0 +1,12 @@
+C:\xampp\htdocs\UML-Games\obj\Debug\netcoreapp3.1\UML-Cours-Games21.csproj.AssemblyReference.cache
+C:\xampp\htdocs\UML-Games\obj\Debug\netcoreapp3.1\UML-Cours-Games21.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\UML-Games\obj\Debug\netcoreapp3.1\UML-Cours-Games21.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\UML-Games\bin\Debug\netcoreapp3.1\UML-Cours-Games21.exe
+C:\xampp\htdocs\UML-Games\bin\Debug\netcoreapp3.1\UML-Cours-Games21.deps.json
+C:\xampp\htdocs\UML-Games\bin\Debug\netcoreapp3.1\UML-Cours-Games21.runtimeconfig.json
+C:\xampp\htdocs\UML-Games\bin\Debug\netcoreapp3.1\UML-Cours-Games21.runtimeconfig.dev.json
+C:\xampp\htdocs\UML-Games\bin\Debug\netcoreapp3.1\UML-Cours-Games21.dll
+C:\xampp\htdocs\UML-Games\bin\Debug\netcoreapp3.1\UML-Cours-Games21.pdb
+C:\xampp\htdocs\UML-Games\obj\Debug\netcoreapp3.1\UML-Cours-Games21.dll
+C:\xampp\htdocs\UML-Games\obj\Debug\netcoreapp3.1\UML-Cours-Games21.pdb
+C:\xampp\htdocs\UML-Games\obj\Debug\netcoreapp3.1\UML-Cours-Games21.genruntimeconfig.cache
