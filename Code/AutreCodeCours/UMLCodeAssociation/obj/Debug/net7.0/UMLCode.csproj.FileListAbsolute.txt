@@ -1,0 +1,15 @@
+C:\xampp\htdocs\UMLCode\bin\Debug\net7.0\UMLCode.exe
+C:\xampp\htdocs\UMLCode\bin\Debug\net7.0\UMLCode.deps.json
+C:\xampp\htdocs\UMLCode\bin\Debug\net7.0\UMLCode.runtimeconfig.json
+C:\xampp\htdocs\UMLCode\bin\Debug\net7.0\UMLCode.dll
+C:\xampp\htdocs\UMLCode\bin\Debug\net7.0\UMLCode.pdb
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.csproj.AssemblyReference.cache
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.AssemblyInfoInputs.cache
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.AssemblyInfo.cs
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.dll
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\refint\UMLCode.dll
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.pdb
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\UMLCode.genruntimeconfig.cache
+C:\xampp\htdocs\UMLCode\obj\Debug\net7.0\ref\UMLCode.dll
